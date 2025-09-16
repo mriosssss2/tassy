@@ -1,0 +1,19 @@
+{
+  "name": "kiwiprimer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node readGoogleSheet.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "googleapis": "^159.0.0",
+    "playwright": "^1.55.0",
+    "xlsx": "^0.18.5"
+  }
+}

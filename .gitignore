@@ -1,0 +1,4 @@
+node_modules
+fb-session
+.env
+.DS_Store
